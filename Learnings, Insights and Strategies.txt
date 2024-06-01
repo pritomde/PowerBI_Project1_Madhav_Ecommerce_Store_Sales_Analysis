@@ -1,0 +1,31 @@
+1. Learnings
+
+(i) Developed an Interactive Dashboard: Enabled comprehensive tracking and analysis of ecommerce sales data.
+(ii) Enhanced Data Relationships: Linked tables and performed calculations for deeper insights.
+(iii) Implemented Customization Tools: Added filters and slicers for tailored data views.
+(iv) Utilized Varied Visualizations: Used stacked bar charts, column charts, donut charts, and cards for clear data presentation.
+
+
+2. Insights
+
+(i) Financial Snapshot: Sales hit ₹438K, earning a profit of ₹37K.
+(ii) Order Value: Average order is worth ₹121K.
+(iii) Regional Stars: Maharashtra tops the sales charts, with Madhya Pradesh and Uttar Pradesh close behind.
+(iv) Big Spenders: Harivansh and Madhav are among top customers.
+(v) Sales Leader: Clothing dominates with 63% of total sales.
+(vi) Payment Preference: Most customers choose Cash on Delivery (COD).
+(vii) Peak Months: January and November shine with the highest profits.
+(viii) Top Products: Printers and Bookcases bring in the most profit.
+
+
+3. Strategies
+
+To boost sales and thrive in 2019, Madhav Ecommerce Store should explore the following game-changing strategies:
+(i) Target Regional Hotspots: Maharashtra, Madhya Pradesh, and Uttar Pradesh are gold mines; focus marketing efforts there.
+(ii) VIP Treatment for Top Customers: Roll out the red carpet for big spenders, Harivansh and Madhav with exclusive deals and perks to encourage repeat purchases.
+(iii) Double Down on Clothing: With clothing reigning supreme, tailor promotions to further boost sales in this category.
+(iv) Encourage Online Payments: While COD is popular, gently incentivize customers towards online payment options for smoother transactions.
+(v) Strategic Seasonal Marketing: Ramp up marketing efforts during January and November to capitalize on the peak months and drive even higher profits.
+(vi) Maximize Profitable Products: Printers and Bookcases are the profit powerhouses; leverage them for increased revenue.
+(vii) Optimize Order Value: Implement smart bundling deals or minimum purchase incentives to encourage higher order values and maximize earnings.
+(viii) Diversify Product Offerings: Expand product range to capture new markets and customer segments for growth.
